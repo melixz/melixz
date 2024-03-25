@@ -12,9 +12,6 @@
 
 - ⚡ Веселый факт **Мое образование философское**
 
-<h3 align="left">Я всегда готов связаться с вами, пишиите мне на почту или в телеграм</h3>
-<p align="left">
-</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/melixz/count.svg?"  />
@@ -28,7 +25,7 @@
 
 ###
 
-<p align="left">Языки и фреймворки</p>
+<h3 align="left">Языки и фреймворки</h3>
 
 ###
 
@@ -54,6 +51,10 @@
 
 ###
 
+<h3 align="left">Связь со мной</h3>
+
+###
+
 <div align="left">
   <a href="https://t.me/Melixxx999" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -72,3 +73,7 @@
 </div>
 
 ###
+
+<h3 align="left">Я всегда готов связаться с вами, пишиите мне на почту или в телеграм</h3>
+<p align="left">
+</p>
