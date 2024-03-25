@@ -66,16 +66,13 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/melixz/count.svg?"  />
-</div>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/69b98d.png"  />
 </div>
 
 ###
-# 📊 GitHub Stats:
+# 📊 GitHub статистика:
 ![](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
