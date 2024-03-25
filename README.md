@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melixz&label=Profile%20views&color=0e75b6&style=flat" alt="melixz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melixz" alt="melixz" /></a> </p>
-
-- 🔭 В настоящее время я работаю над [магехакатоне по лендингам](---------------)
+- 🔭 В настоящее время я работаю над [магехакатон по лендингам](---------------)
 
 - 🌱 В данный момент я изучаю **Python и Django**
 
