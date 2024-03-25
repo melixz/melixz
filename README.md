@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Владислав</h1>
 <h3 align="center">Backend-разработчик Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melixz&label=%20Просмотры&color=0e75b6&style=flat" alt="melixz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melixz&label=Просмотры%&color=0e75b6&style=flat" alt="melixz" /> </p>
 
 - 🔭 В настоящее время я работаю над [магехакатон по лендингам](---------------)
 
