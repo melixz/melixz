@@ -1,22 +1,18 @@
 # <h1 align="center">👋 Привет, я Владислав - Backend-разработчик на Python 🐍</h1>
 
-Я программист из Москвы, специализирующийся на Python, Django, и FastAPI. Имею опыт работы с PostgreSQL, SQLite, Docker, Git, и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом. Связаться со мной можно по email или через Telegram. Следите за моими обновлениями и достижениями - вместе мы сможем добиться большего! 🚀
+Привет! Я программист из Москвы, специализирующийся на разработке на Python, Django, и FastAPI. У меня есть опыт работы с PostgreSQL, SQLite, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом. Связаться со мной можно по email или через Telegram. Следите за моими обновлениями и достижениями - вместе мы сможем добиться большего! 🚀
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/melixz/count.svg?" alt="Profile Views Counter" />
 </div>
 
-###
-
 <div align="center">
   <img height="200" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
 </div>
 
-###
+### 🛠️ Технологии и инструменты
 
-<h3 align="left">Языки и фреймворки:</h3>
-
-###
+Я работаю с различными технологиями и инструментами, вот некоторые из них:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo"  />
@@ -38,11 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google logo"  />
 </div>
 
-###
+### 📞 Связь со мной
 
-<h3 align="left">Связь со мной:</h3>
-
-###
+Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
 
 <div align="left">
   <a href="https://t.me/Melixxx999" target="_blank">
@@ -53,15 +47,13 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
 
-###
-# 📊 GitHub статистика:
-![](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub статистика
+
+![Статус сборки](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
