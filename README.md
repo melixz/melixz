@@ -59,13 +59,11 @@
 
 ### <div align="center">GitHub статистика</div>
 
-![Статус сборки](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
-
 <div align="center">
   
+![Статус сборки](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
 [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
   
  </div>
 
