@@ -91,6 +91,3 @@
 <br>
   <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
 </p>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
