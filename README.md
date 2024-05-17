@@ -71,6 +71,12 @@
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
 
+<details>
+  <summary>Нажмите здесь, чтобы увидеть диаграмму(для мобильной версии приложения)</summary>
+  <br>
+  ![Диаграмма](https://github.com/melixz/melixz/blob/main/2024-05-18%20012715.png)
+</details>
+
 ```mermaid
 graph LR
   A1[Python]
