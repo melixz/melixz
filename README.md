@@ -28,39 +28,38 @@
 </div>
 <br>
 <div align="center">
-  <table>
+  <table style="margin: 0 auto;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=py" width="100" height="100" alt="Python logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=django" width="100" height="100" alt="Django logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=fastapi" width="100" height="100" alt="FastAPI logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=docker" width="100" height="100" alt="Docker logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=git" width="100" height="100" alt="Git logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=redis" width="100" height="100" alt="Redis logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=postgres" width="100" height="100" alt="PostgreSQL logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML5 logo" />
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="100" height="100" alt="Google logo" />
       </td>
     </tr>
   </table>
 </div>
-
 
 </div>
 <br>
