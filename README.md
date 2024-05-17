@@ -2,6 +2,8 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+## <div align="center"></div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3aWFlbHIwNDJzeG9jYjR0cHpkM29xejJoMHR0YWdkNHN4OHlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="300">
 </div>
@@ -41,6 +43,8 @@
 - API веб-сервисов
 - ORM технологии
 
+## <div align="center"></div>
+
 <h1 align="center"><img width="450px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWluNzB5ZHkwN3JyZTRoOGdnc3l6MDRoY3d5MzhlamhxN2sxZnkxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif">
 
 ## <div align="center">Стек</div>
@@ -66,6 +70,8 @@
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
 
+## <div align="center"></div>
+
 ## <div align="center">GitHub статистика</div>
 
 <div align="center">
@@ -85,6 +91,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+
+## <div align="center"></div>
 
 ## <div align="center">Связь со мной</div>
 
@@ -121,8 +129,10 @@
   <img height="300" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
 </div>
 
+## <div align="center"></div>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-# <div align="center">В̷ ̷э̷т̷и̷х̷ ̷т̷а̷и̷н̷с̷т̷в̷е̷н̷н̷ы̷х̷ ̷р̷о̷щ̷а̷х̷,̷ ̷г̷д̷е̷ ̷ж̷и̷в̷у̷т̷ ̷с̷к̷а̷з̷о̷ч̷н̷ы̷е̷ ̷с̷у̷щ̷е̷с̷т̷в̷а̷,̷ ̷з̷а̷г̷а̷д̷к̷и̷ ̷и̷ ̷ч̷у̷д̷е̷с̷а̷ ̷ж̷д̷у̷т̷ ̷т̷е̷х̷,̷ ̷к̷т̷о̷ ̷о̷с̷м̷е̷л̷и̷т̷с̷я̷ ̷в̷ ̷н̷и̷х̷ ̷з̷а̷б̷р̷е̷с̷т̷и̷.̷</div> 
+<div align="center">В̷ ̷э̷т̷и̷х̷ ̷т̷а̷и̷н̷с̷т̷в̷е̷н̷н̷ы̷х̷ ̷р̷о̷щ̷а̷х̷,̷ ̷г̷д̷е̷ ̷ж̷и̷в̷у̷т̷ ̷с̷к̷а̷з̷о̷ч̷н̷ы̷е̷ ̷с̷у̷щ̷е̷с̷т̷в̷а̷,̷ ̷з̷а̷г̷а̷д̷к̷и̷ ̷и̷ ̷ч̷у̷д̷е̷с̷а̷ ̷ж̷д̷у̷т̷ ̷т̷е̷х̷,̷ ̷к̷т̷о̷ ̷о̷с̷м̷е̷л̷и̷т̷с̷я̷ ̷в̷ ̷н̷и̷х̷ ̷з̷а̷б̷р̷е̷с̷т̷и̷.̷</div> 
