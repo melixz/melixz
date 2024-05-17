@@ -155,7 +155,7 @@ graph LR
   <img src="https://profile-counter.glitch.me/melixz/count.svg?" alt="Profile Views Counter" />
 </div>
 <div align="center">
-  <img height="300" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
+  <img height="250" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
 </div>
 
 ## <div align="center"></div>
