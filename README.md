@@ -3,7 +3,12 @@
 </p>
 
 # <h1 align="center"><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJtYnU5OTl2NmIwOWloNW1qcnhxMWNlanNsN2JkM2VrejN3b3k1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"></h1>
-
+<div align="center">
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+<br>
+</div>
 <div align="center">
   Привет! Я программист из Москвы, специализирующийся на разработке на Python, Django, и FastAPI. У меня есть опыт работы с PostgreSQL, SQLite, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом. Связаться со мной можно по email или через Telegram. Следите за моими обновлениями и достижениями - вместе мы сможем добиться большего! 🚀
 </div>
@@ -78,4 +83,3 @@
 </p>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='center'/>
