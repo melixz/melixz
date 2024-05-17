@@ -17,8 +17,7 @@
 <div align="center">
   Я работаю с различными технологиями и инструментами, вот некоторые из них:
 </div>
-
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo"  />
   <img width="12" />
@@ -44,8 +43,7 @@
 <div align="center">
   Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
 </div>
-
-
+<br>
 <div align="center">
   <a href="https://t.me/Melixxx999" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo"  />
@@ -54,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>
 </div>
-
+<br>
 <div align="center">
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
