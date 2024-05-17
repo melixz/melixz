@@ -1,4 +1,3 @@
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjdDQ2djMxNXhmanBxMzRmbWg5MWhuaW9sOGN1YjNudzJpZ2E5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jRt8Eee8s7Cf04/giphy.gif" />
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
