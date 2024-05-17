@@ -28,16 +28,41 @@
 </div>
 <br>
 <div align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
-  <img height="60" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
+  <table>
+    <tr>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
+      </td>
+      <td align="center">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 </div>
 <br>
@@ -67,18 +92,30 @@
 ## <div align="center">Связь со мной</div>
 
 <div align="center">
-  Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
+  <p>Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:</p>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/Melixxx999" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="100" alt="Telegram logo" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:dr.melix@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="100" alt="Gmail logo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
-<div align="center">
-  <a href="https://t.me/Melixxx999" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="60" alt="Telegram logo"  />
-  </a>
-  <a href="mailto:dr.melix@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Gmail logo"  />
-  </a>
 
+
+
+
+  
+  </a>
 <p align="center">
+<br>
   <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
 </p>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
