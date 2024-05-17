@@ -64,12 +64,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
-</p>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-# <div align="center">Связь со мной</div>
+## <div align="center">Связь со мной</div>
 
 <div align="center">
   Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
@@ -82,3 +77,10 @@
   <a href="mailto:dr.melix@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Gmail logo"  />
   </a>
+
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
+</p>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
