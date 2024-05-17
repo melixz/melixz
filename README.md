@@ -124,3 +124,5 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+# <div align="center">В̷ ̷э̷т̷и̷х̷ ̷т̷а̷и̷н̷с̷т̷в̷е̷н̷н̷ы̷х̷ ̷р̷о̷щ̷а̷х̷,̷ ̷г̷д̷е̷ ̷ж̷и̷в̷у̷т̷ ̷с̷к̷а̷з̷о̷ч̷н̷ы̷е̷ ̷с̷у̷щ̷е̷с̷т̷в̷а̷,̷ ̷з̷а̷г̷а̷д̷к̷и̷ ̷и̷ ̷ч̷у̷д̷е̷с̷а̷ ̷ж̷д̷у̷т̷ ̷т̷е̷х̷,̷ ̷к̷т̷о̷ ̷о̷с̷м̷е̷л̷и̷т̷с̷я̷ ̷в̷ ̷н̷и̷х̷ ̷з̷а̷б̷р̷е̷с̷т̷и̷.̷</div> 
