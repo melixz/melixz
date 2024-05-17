@@ -18,6 +18,7 @@
   Я работаю с различными технологиями и инструментами, вот некоторые из них:
 </div>
 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo"  />
   <img width="12" />
@@ -43,6 +44,7 @@
 <div align="center">
   Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
 </div>
+
 
 <div align="center">
   <a href="https://t.me/Melixxx999" target="_blank">
