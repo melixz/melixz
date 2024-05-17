@@ -1,3 +1,8 @@
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjdDQ2djMxNXhmanBxMzRmbWg5MWhuaW9sOGN1YjNudzJpZ2E5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jRt8Eee8s7Cf04/giphy.gif" />
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 # <h1 align="center">👋 Привет, я Владислав - Backend-разработчик на Python 🐍</h1>
 
 <div align="center">
@@ -75,3 +80,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
+</p>
