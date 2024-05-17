@@ -31,31 +31,31 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=py" width="100" height="100" alt="Python logo" />
+        <img src="https://skillicons.dev/icons?i=py" width="70" height="70" alt="Python logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=django" width="100" height="100" alt="Django logo" />
+        <img src="https://skillicons.dev/icons?i=django" width="70" height="70" alt="Django logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="100" height="100" alt="FastAPI logo" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="100" height="100" alt="Docker logo" />
+        <img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="100" height="100" alt="Git logo" />
+        <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" width="100" height="100" alt="Redis logo" />
+        <img src="https://skillicons.dev/icons?i=redis" width="70" height="70" alt="Redis logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="100" height="100" alt="PostgreSQL logo" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML5 logo" />
+        <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML5 logo" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="100" height="100" alt="Google logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70" alt="Google logo" />
       </td>
     </tr>
   </table>
