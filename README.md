@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3aWFlbHIwNDJzeG9jYjR0cHpkM29xejJoMHR0YWdkNHN4OHlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="300">
 </div>
 
-# <h1 align="center"><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python 
+# <h1 align="center"><img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python <img width="30px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRscDVpdnB1cHZ6eXk1dXF5eDlvN3g2bXQ0a2MwbjNteWVxYWU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaZCYXRhJmN0PXM/3PqeqVoo248xgxq3p1/giphy.gif"></h1>
+
 <div align="center">
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
@@ -73,9 +74,11 @@
 <br>
 ![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
 <br>
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark\&hide_progress=true)
   
  </div>
+
+## <div align="center"></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
@@ -103,6 +106,8 @@
   </table>
 </div>
 
+## <div align="center"></div>
+
   </a>
 <p align="center">
 <br>
@@ -113,7 +118,7 @@
   <img src="https://profile-counter.glitch.me/melixz/count.svg?" alt="Profile Views Counter" />
 </div>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
+  <img height="300" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
 </div>
 
 <p align="center">
