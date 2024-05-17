@@ -64,11 +64,34 @@
   <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 </div>
 
+
 </div>
 <br>
 <div align="center">
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
+
+```mermaid
+graph LR
+  A1[Python]
+  B1[FastAPI]
+  C1[Docker]
+  D1[Redis]
+  E1[Django]
+  F1[PostgreSQL]
+  G1[HTML5]
+  H1[Git]
+  I1[Google]
+
+  A1 --> B1
+  A1 --> E1
+  B1 --> C1
+  B1 --> D1
+  E1 --> C1
+  E1 --> F1
+  G1 --> H1
+  G1 --> I1
+```
 
 ## <div align="center"></div>
 
