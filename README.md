@@ -21,44 +21,20 @@
   <img height="200" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
 </div>
 
-## <div align="center">Технологии и инструменты</div>
-
 <div align="center">
   Я работаю с различными технологиями и инструментами, вот некоторые из них:
 </div>
 <br>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py" width="70" height="70" alt="Python logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=django" width="70" height="70" alt="Django logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" width="70" height="70" alt="Redis logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML5 logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70" alt="Google logo" />
-      </td>
-    </tr>
-  </table>
+  <img height="70" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
+  <img height="70" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 </div>
 
 </div>
