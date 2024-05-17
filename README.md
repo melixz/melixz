@@ -26,15 +26,15 @@
 </div>
 <br>
 <div align="center">
-  <img height="70" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
-  <img height="70" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 </div>
 
 </div>
