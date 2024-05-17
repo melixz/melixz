@@ -2,7 +2,11 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-# <h1 align="center"><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJtYnU5OTl2NmIwOWloNW1qcnhxMWNlanNsN2JkM2VrejN3b3k1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3aWFlbHIwNDJzeG9jYjR0cHpkM29xejJoMHR0YWdkNHN4OHlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="300">
+</div>
+
+# <h1 align="center"><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python 
 <div align="center">
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
@@ -10,17 +14,35 @@
 <br>
 </div>
 <div align="center">
-  Привет! Я программист из Москвы, специализирующийся на разработке на Python, Django, и FastAPI. У меня есть опыт работы с PostgreSQL, SQLite, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом. Связаться со мной можно по email или через Telegram. Следите за моими обновлениями и достижениями - вместе мы сможем добиться большего! 🚀
+  Привет! Я программист из Москвы, специализирующийся на разработке на Python, Django и FastAPI. У меня есть опыт работы с PostgreSQL, SQLite, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом. Связаться со мной можно по email или через Telegram. Следите за моими обновлениями и достижениями - вместе мы сможем добиться большего! 🚀
 </div>
 <br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/melixz/count.svg?" alt="Profile Views Counter" />
-</div>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
-</div>
-<br>
+## 💬 Спросите меня о
+- Разработка backend (Python, Django, FastAPI)
+- Базы данных (PostgreSQL, SQLite)
+- DevOps (Docker, Git, Linux)
+
+## 📅 Увлечения
+- Философия
+- Видеоигры (стратегии и RPG)
+- Путешествия
+
+## 💻 Текущие проекты
+- **first_class** [WIP] - Веб-сайт для компании элитного тур-агентства
+- **МЕГАХАКАТОН 2.0** [WIP] - Командный хакатон от SF
+- **Secret pet-project** [WIP] - Тайное оружие
+
+## 📚 Изучаю
+- Python
+- Django
+- FastAPI
+- API веб-сервисов
+- ORM технологии
+
+<h1 align="center"><img width="450px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWluNzB5ZHkwN3JyZTRoOGdnc3l6MDRoY3d5MzhlamhxN2sxZnkxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif">
+
+## <div align="center">Стек</div>
 <div align="center">
   Я работаю с различными технологиями и инструментами, вот некоторые из них:
 </div>
@@ -55,7 +77,6 @@
   
  </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
@@ -82,12 +103,19 @@
   </table>
 </div>
 
-
-
-
-  
   </a>
 <p align="center">
 <br>
   <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsOHJhZmp5M2Z3NGxzcGhzNW82MDl1MGUzbmhieGtibHpxaGQ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif" />
+</p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/melixz/count.svg?" alt="Profile Views Counter" />
+</div>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/2nytxb.jpg" alt="Funny Python Meme" />
+</div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
