@@ -39,27 +39,13 @@
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 </div>
 
-
-## <div align="center">Связь со мной</div>
-
-<div align="center">
-  Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
-</div>
-<br>
-<div align="center">
-  <a href="https://t.me/Melixxx999" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="60" alt="Telegram logo"  />
-  </a>
-  <a href="mailto:dr.melix@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="60" alt="Gmail logo"  />
-  </a>
 </div>
 <br>
 <div align="center">
   <img height="200" src="https://i.imgflip.com/69b98d.png" alt="Coder's Life Meme" />
 </div>
 
-### <div align="center">GitHub статистика</div>
+## <div align="center">GitHub статистика</div>
 
 <div align="center">
   
@@ -83,3 +69,16 @@
 </p>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+# <div align="center">Связь со мной</div>
+
+<div align="center">
+  Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
+</div>
+<br>
+<div align="center">
+  <a href="https://t.me/Melixxx999" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="60" alt="Telegram logo"  />
+  </a>
+  <a href="mailto:dr.melix@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Gmail logo"  />
+  </a>
