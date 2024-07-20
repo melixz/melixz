@@ -22,32 +22,42 @@
 <br>
 
 ## 💬 Спросите меня о
+
 - Разработка backend (Python, Django, FastAPI)
 - Базы данных (PostgreSQL, SQLite)
 - DevOps (Docker, Git, Linux)
+- Создание Telegram ботов
+- AI технологии
 
 ## 📅 Увлечения
+
 - Философия (античная и современная)
-- Видеоигры (стратегии и RPG)
 - Путешествия (хочу увидеть весь шар)
+- Искусство(живопись, кино, музыка)
+- Видеоигры (стратегии и RPG)
+- Разведение элитных пород собак
 
 ## 💻 Текущие проекты
-- **first_class** [WIP] - Веб-сайт для компании элитного тур-агентства
-- **МЕГАХАКАТОН 2.0** [WIP] - Командный хакатон от SF
-- **Secret pet-project** [WIP] - Тайное оружие
+
+- **IT-песочница** [WIP]- Кейс "Ночлежка", разработка игры для НКО
+- **АРК** [WIP]- разработка веб-сайта для агенства недвижимости
+- **Magnum opus** [WIP] - Тайное оружие
 
 ## 📚 Изучаю
+
 - Python
 - Django
 - FastAPI
 - API веб-сервисов
 - ORM технологии
+- Frontend
 
 ## <div align="center"></div>
 
 <h1 align="center"><img width="450px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWluNzB5ZHkwN3JyZTRoOGdnc3l6MDRoY3d5MzhlamhxN2sxZnkxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif">
 
 ## <div align="center">Стек</div>
+
 <div align="center">
   Я работаю с различными технологиями и инструментами, вот некоторые из них:
 </div>
@@ -105,13 +115,13 @@ graph LR
 ## <div align="center">GitHub статистика</div>
 
 <div align="center">
-  
+
 ![Статус сборки](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br>
 ![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark\&hide_progress=true)
-  
+
  </div>
 
 ## <div align="center"></div>
