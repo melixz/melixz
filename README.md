@@ -24,7 +24,7 @@
 ## 💬 Спросите меня о
 
 - Разработка backend (Python, Django, FastAPI)
-- Базы данных (PostgreSQL, SQLite)
+- Базы данных (PostgreSQL, Mongodb, SQLite)
 - DevOps (Docker, Git, Linux)
 - Создание Telegram ботов
 - AI технологии
@@ -39,13 +39,14 @@
 
 ## 💻 Текущие проекты
 
-- **IT-песочница** [WIP]- Кейс "Ночлежка", разработка игры для НКО
-- **MATCHMOVE** [WIP]- разработка веб-сайта для распространения и продажи гридов
+- **EPG** [WIP] - Электронный телегид
+- **AI Startup project** [WIP] - Психологическая помощь
 - **Magnum opus** [WIP] - Тайное оружие
 
 ## 📚 Изучаю
 
 - Python
+- GO
 - Django
 - FastAPI
 - API веб-сервисов
@@ -63,15 +64,21 @@
 </div>
 <br>
 <div align="center">
+  <img height="65" src="https://skillicons.dev/icons?i=linux" alt="Linux logo" />
   <img height="65" src="https://skillicons.dev/icons?i=py" alt="Python logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=go" alt="GO logo" />
   <img height="65" src="https://skillicons.dev/icons?i=django" alt="Django logo" />
   <img height="65" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI logo" />
   <img height="65" src="https://skillicons.dev/icons?i=docker" alt="Docker logo" />
   <img height="65" src="https://skillicons.dev/icons?i=git" alt="Git logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" />
   <img height="65" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
   <img height="65" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
-  <img height="65" src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=mysql" alt="Mysql logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=postman" alt="Postman logo" />
   <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
+
 </div>
 
 
@@ -84,24 +91,32 @@
 ```mermaid
 graph LR
   A1[Python]
+  L1[Linux]
+  M1[GO]
   B1[FastAPI]
   C1[Docker]
   D1[Redis]
   E1[Django]
   F1[PostgreSQL]
-  G1[HTML5]
+  V1[Mysql]
+  N1[Mongodb]
+  X1[Postman]
   H1[Git]
-  I1[Google]
+  P1[GitLab]
 
-  I1 --> A1
+  L1 --> A1
+  A1 --> M1
   A1 --> B1
   A1 --> E1
-  A1 --> H1
+  P1 --> A1
+  H1 --> A1
   A1 --> F1
+  A1 --> V1
+  A1 --> N1
   A1 --> D1
   A1 --> C1
-  B1 --> G1
-  E1 --> G1
+  X1 --> A1
+
 ```
 
 <details>
