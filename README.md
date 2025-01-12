@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3aWFlbHIwNDJzeG9jYjR0cHpkM29xejJoMHR0YWdkNHN4OHlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="300">
 </div>
 
-# <h1 align="center"><img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик на Python <img width="30px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRscDVpdnB1cHZ6eXk1dXF5eDlvN3g2bXQ0a2MwbjNteWVxYWU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaZCYXRhJmN0PXM/3PqeqVoo248xgxq3p1/giphy.gif"></h1>
+# <h1 align="center"><img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Привет, я Владислав - Backend-разработчик <img width="30px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRscDVpdnB1cHZ6eXk1dXF5eDlvN3g2bXQ0a2MwbjNteWVxYWU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaZCYXRhJmN0PXM/3PqeqVoo248xgxq3p1/giphy.gif"></h1>
 
 <div align="center">
 <div>
@@ -17,7 +17,7 @@
 <br>
 </div>
 <div align="center">
-  Привет, мир! Я программист из Москвы, специализирующийся на разработке на Python, Django и FastAPI. У меня есть опыт работы с PostgreSQL, MySQL, SQLite, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом  - вместе мы сможем добиться большего! 🚀
+  Привет, мир! Я программист из Москвы, специализирующийся на разработке на Python, GO, Django и FastAPI. У меня есть опыт работы с PostgreSQL, MySQL, Mongodb, Docker, Git и Linux. Я постоянно стремлюсь расширять свои знания и умения, открыт к сотрудничеству и всегда в поиске новых вызовов. Моя цель - развитие в области веб-разработки, участие в значимых проектах и обмен опытом с профессиональным сообществом  - вместе мы сможем добиться большего! 🚀
 </div>
 <br>
 
