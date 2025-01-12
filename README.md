@@ -23,8 +23,8 @@
 
 ## 💬 Спросите меня о
 
-- Разработка backend (Python, Django, FastAPI)
-- Базы данных (PostgreSQL, Mongodb, SQLite)
+- Разработка backend (Python, GO, Django, FastAPI)
+- Базы данных (PostgreSQL, MongoDB, MySQL)
 - DevOps (Docker, Git, Linux)
 - Создание Telegram ботов
 - AI технологии
@@ -74,8 +74,8 @@
   <img height="65" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" />
   <img height="65" src="https://skillicons.dev/icons?i=redis" alt="Redis logo" />
   <img height="65" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL logo" />
-  <img height="65" src="https://skillicons.dev/icons?i=mysql" alt="Mysql logo" />
-  <img height="65" src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" />
+  <img height="65" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB logo" />
   <img height="65" src="https://skillicons.dev/icons?i=postman" alt="Postman logo" />
   <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 
