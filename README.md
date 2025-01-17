@@ -98,6 +98,7 @@ graph LR
   C1[Docker]
   D1[Redis]
   E1[Django]
+  Z1[Flask]
   F1[PostgreSQL]
   V1[Mysql]
   N1[Mongodb]
@@ -109,6 +110,7 @@ graph LR
   A1 --> M1
   A1 --> B1
   A1 --> E1
+  A1 --> Z1
   P1 --> A1
   H1 --> A1
   A1 --> F1
