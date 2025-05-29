@@ -39,7 +39,7 @@
 
 ## 💻 Текущие проекты
 
-- **IDA** - Proptech company №1
+- **Freedom** - All that i love 
 - **AI Startup project** [WIP] - В поисках вдохновения
 - **Magnum opus** [WIP] - Тайное оружие
 
