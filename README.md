@@ -78,7 +78,6 @@
   <img height="65" src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" />
   <img height="65" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB logo" />
   <img height="65" src="https://skillicons.dev/icons?i=postman" alt="Postman logo" />
-  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google logo" />
 
 </div>
 
