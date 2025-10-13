@@ -27,7 +27,7 @@
 - Базы данных (PostgreSQL, MongoDB, MySQL)
 - DevOps (Docker, Git, Linux)
 - Создание Telegram ботов
-- AI технологии
+- AI технологии (агенты)
 
 ## 📅 Увлечения
 
@@ -39,7 +39,7 @@
 
 ## 💻 Текущие проекты
 
-- **Find** - In search of a better place
+- **Buzz** - International startup
 - **AI Startup project** [WIP] - В поисках вдохновения
 - **Magnum opus** [WIP] - Тайное оружие
 
