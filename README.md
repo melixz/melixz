@@ -129,16 +129,6 @@ graph LR
 
 ## <div align="center"></div>
 
-## <div align="center">GitHub статистика</div>
-
-<div align="center">
-
-![Статус сборки](https://github-readme-stats.vercel.app/api?username=melixz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br>
-![Статистика по коммитам](https://github-readme-streak-stats.herokuapp.com/?user=melixz&theme=dark&hide_border=false)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melixz&theme=dark\&hide_progress=true)
-
  </div>
 
 ## <div align="center"></div>
