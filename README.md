@@ -121,14 +121,6 @@ graph LR
 
 ```
 
-<details>
-  <summary>Нажмите здесь, чтобы увидеть диаграмму (для мобильной версии приложения)</summary>
-  <br>
-  <img src="https://github.com/melixz/melixz/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-02%20002113.png" alt="Диаграмма">
-</details>
-
-## <div align="center"></div>
-
  </div>
 
 ## <div align="center"></div>
